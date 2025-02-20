@@ -14,7 +14,7 @@
 - npm i & npm run dev
 
 # Deploy
-Результат можно посмотреть [Здесь](https://babeljs.io/) 
+Результат можно посмотреть [Здесь](https://fillinius.github.io/petProject_simpleToDo/) 
 
 
 
